@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Crypto Top 5</string>
+
+    <string name="crypto_screen_header">Top 5 Cryptos</string>
+    <string name="crypto_screen_price">Price: %1$s</string>
+    <string name="crypto_screen_price_change">Change (24h): %1$s</string>
+
+    <string name="error_message">Something went wrong. Please try again.</string>
+
+</resources>
